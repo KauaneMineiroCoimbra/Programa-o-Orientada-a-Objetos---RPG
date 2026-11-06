@@ -1,2 +1,4 @@
-# Programa-o-Orientada-a-Objetos---RPG
- Vocês devem criar projetos utilizando todos os pilares fundamentais da POO : JOGADA, NPC(VARIOS TIPOS), INIMIGOS, ITENS(ELEMENTOS).                                                IDEIAS EXTRAS: RANKING, SISTEMA DE SIMULAÇÃO, NIVEIS DE DIFICULDADE.
+Projeto acadêmico para praticar Programação Orientada a Objetos.
+Jogo RPG desenvolvido em Java, com temática de escola de magia, 
+quatro elementos, níveis de dificuldade,
+treinamento e simulador de batalhas.
